@@ -158,7 +158,7 @@ $.LoadImages = function () {
 
     $.ImageOne = new Image();
     $.ImageOne.onload = function () { $.ImagesLoaded++; }
-    $.ImageOne.src = "bingo.jpg";        
+    $.ImageOne.src = "image1.png";        
 };
 
 $.Loading = function () {
